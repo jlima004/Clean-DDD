@@ -5,6 +5,7 @@
   ],
   "rules": {
     "no-useless-constructor": "off",
+    "no-new": "off",
     "@typescript-eslint/adjacent-overload-signatures": "off"
   },
   "env": {

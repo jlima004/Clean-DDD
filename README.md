@@ -5,14 +5,7 @@ Design dirigido à domínio
 ## Domínio
 
 - Domain Experts
-  - Conversa
 - Linguagem ubíqua
-
-- Usuário
-  - Cliente
-  - Fornecedor
-  - Atendente
-  - Barman
 
 - Agregados
 - Value Objects
@@ -20,3 +13,9 @@ Design dirigido à domínio
 - Subdomínios (Bounded Contexts)
 - Entidades
 - Casos de uso
+
+# Subdomínios
+
+- Core
+- Supporting
+- Generic
